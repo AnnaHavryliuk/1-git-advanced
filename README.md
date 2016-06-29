@@ -1,2 +1,3 @@
-# 6-vcs-advanced
-Homework of theme "VCS Advanced"
+# 1-git-advanced
+
+Homework of topic "Git Advanced" task 1 "Work with branches".
